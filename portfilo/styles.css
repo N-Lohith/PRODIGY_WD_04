@@ -45,11 +45,9 @@ nav ul li a {
     margin-top: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
-
-/* Different background colors for each section */
 .about-me {
     padding: 20px;
-    background-color: #faf3dd; /* Light yellow */
+    background-color: #faf3dd; 
     max-width: 800px;
     margin: 20px auto;
     border-radius: 10px;
@@ -58,7 +56,7 @@ nav ul li a {
 
 .projects {
     padding: 20px;
-    background-color: #d1e7dd; /* Light teal */
+    background-color: #d1e7dd; 
     max-width: 800px;
     margin: 20px auto;
     border-radius: 10px;
@@ -67,7 +65,7 @@ nav ul li a {
 
 .contact {
     padding: 20px;
-    background-color: #fef3e0; /* Light orange */
+    background-color: #fef3e0; 
     max-width: 800px;
     margin: 20px auto;
     border-radius: 10px;
